@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 # Logs
 logs
 *.log
@@ -69,3 +70,16 @@ yarn-error.log
 # next.js
 /.next/
 /out/
+=======
+# Project dependencies
+.cache
+node_modules
+yarn-error.log
+package-lock.json
+
+# Build directory
+/public
+.DS_Store
+
+.vscode/
+>>>>>>> Stashed changes
