@@ -1,5 +1,5 @@
 ---
-date: '2021-05-010'
+date: '2021-05-10'
 title: 'Full Stack Developer Intern'
 company: 'Lets Be The Change'
 location: 'Bangalore, IN'
